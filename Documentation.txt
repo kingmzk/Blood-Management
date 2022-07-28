@@ -1,0 +1,14 @@
+In this project .i have created Blood management System.
+By running mainApp.py we get a tkinter Base Project which will have SOme Credentials to fill By user
+After Filling you get Details of that report By automatically Generating Details.db report. 
+And it follows as per requirements. and we have deployed this Project in Azure.
+
+Create a cloud application with to manage blood requirements by the patients
+
+2. When a blood donation camp is organised, all the information regarding the blood availability, location of availability is entered into the system.
+
+3. Thus, a database of resource will be helpful to arrange for the blood during emergency when the patients are in critical condition.
+
+4. When ever an urgent request for blood is posted in the system from any location, the cloud should match the required blood group and suggest the top 5 closest location where the particular group is available.
+
+5. This System can effectively help the patients with rare blood group as a complete database of a large group of people is maintained in the same cloud
